@@ -27,3 +27,6 @@ Initially, this project aims to support the following email / task clients:
 * Thunderbird
 * Android
 * iPhone
+
+#Supported Protocols
+Ideally, ActiveSync will be responsible for syncing calendar, contact, email, and task information.
