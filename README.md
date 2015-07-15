@@ -9,6 +9,7 @@ This project aims to replace the primary features used by small businesses with 
 * Centralized contact management.
 * Centralized task management.
 * Mobile device (Android / iPhone) support, which will afford users access to the feature set above.
+* Meaningful integration with ownCloud
  
 # Methodology
 The primary deliverables of this project will be a set of scripts, which will take an ordinary (new) installation of Debian Linux, and download the required packages to create the features set. In addition, this project may create additional items, add-ons, scripts, or applications to serve as a bridge between these products to product the desired outcome and full feature set support.
