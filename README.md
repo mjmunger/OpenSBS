@@ -15,7 +15,8 @@ This project aims to replace the primary features used by small businesses with 
 The primary deliverables of this project will be a set of scripts, which will take an ordinary (new) installation of Debian Linux, and download the required packages to create the features set. In addition, this project may create additional items, add-ons, scripts, or applications to serve as a bridge between these products to product the desired outcome and full feature set support.
 
 #Technology Used in this Project
-* Email Server: Postfix
+* MTA: Postfix
+* IMAP Server: Dovecot
 * Active Directory Server: Samba 4
 * Calendar Server: ?
 * Address Book Server: ?
