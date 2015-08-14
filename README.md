@@ -20,6 +20,8 @@ The primary deliverables of this project will be a set of scripts, which will ta
 * Calendar Server: ?
 * Address Book Server: ?
 * Task Server: ?
+* Webmail client: ?
+* Remote access / VPN server: ?
 
 #Supported Clients
 Initially, this project aims to support the following email / task clients:
