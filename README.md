@@ -2,7 +2,7 @@
 A free, open source, Linux based replacement for Microsoft Small Business Server.
 
 #Project Scope
-This project aims to replace the primary features used by small businesses with 75 or less employees, which were previously fulfilled by the Microsoft Small Business Server, including:
+This project aims to replace the primary features used by small businesses with 75 or fewer employees, which were previously fulfilled by the Microsoft Small Business Server, including:
 * Active Directory User Control and Permissions
 * Email
 * Centralized calendar management, including shared calendars
@@ -31,4 +31,4 @@ Initially, this project aims to support the following email / task clients:
 * iPhone
 
 #Supported Protocols
-Ideally, ActiveSync will be responsible for syncing calendar, contact, email, and task information.
+Ideally, ActiveSync will be responsible for syncing calendar, contact, email, and task information -- provided compatibility can be maintained.
